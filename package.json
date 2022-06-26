@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "Nodejs unit test",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alfian Yuska",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
